@@ -1,0 +1,24 @@
+.navbar {
+  padding: 25px;
+}
+.uzb {
+  padding-top: 25px;
+}
+footer {
+  color: white;
+  font-size: 16px;
+  position: relative;
+  left: 50px;
+}
+
+button {
+  font-size: 16px;
+  cursor: pointer;
+  position: absolute;
+  right: 25px;
+}
+
+.card-text {
+  text-align: justify;
+  margin: 15px;
+}
